@@ -1,0 +1,431 @@
+{
+    "FreshCo Markham": {
+        "displayAddress": "9580 McCowan Road,Markham,Ontario,L3P 8M1",
+        "extId": "a2t5o00000001GXAAY",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -79.2932,
+            "lat": 43.8927
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "Safeway Riverbend Square": {
+        "displayAddress": "576 Riverbend Square NW,Edmonton,Alberta,T6R 2E3",
+        "extId": "a2t5o00000001EwAAI",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -113.588,
+            "lat": 53.4683
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Sobeys Mill Woods": {
+        "displayAddress": "5011 23 Avenue NW,Edmonton,Alberta,T6L 7G5",
+        "extId": "a2t5o00000001ELAAY",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -113.422,
+            "lat": 53.4538
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Sobeys Beaumont": {
+        "displayAddress": "5802 - 50th Street,Beaumont,Alberta,T4X 1T8",
+        "extId": "a2t5o00000001ENAAY",
+        "regionExternalId": "a2z5o0000000157AAA",
+        "location": {
+            "lng": -113.417,
+            "lat": 53.3603
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Safeway Spruce Grove": {
+        "displayAddress": "94 Mcleod Avenue,Spruce Grove,Alberta,T7X 1R2",
+        "extId": "a2t5o00000001FTAAY",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -113.913,
+            "lat": 53.542
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Safeway Wetaskiwin": {
+        "displayAddress": "3901 - 56 Street,Wetaskiwin,Alberta,T9A 2B1",
+        "extId": "a2t5o00000001ECAAY",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -113.388,
+            "lat": 52.9585
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Safeway Cornerstone": {
+        "displayAddress": "200, 6800 - 48 Avenue,Camrose,Alberta,T4V 4T1",
+        "extId": "a2t5o00000001F6AAI",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -112.86,
+            "lat": 53.0198
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Sobeys Waterloo": {
+        "displayAddress": "450 Columbia Street W ,Waterloo,Ontario,N2T 2W1",
+        "extId": "a2t5o00000001DzAAI",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -80.5683,
+            "lat": 43.467
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "FreshCo Downtown": {
+        "displayAddress": "3417 - 30 Avenue,Vernon,British Columbia,V1T 2E3",
+        "extId": "a2t5o00000001NOAAY",
+        "regionExternalId": "a2z5o000000016cAAA",
+        "location": {
+            "lng": -119.279,
+            "lat": 50.2642
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Pacific"
+    },
+    "Lawtons Elmwood Drive - Pfizer/Moderna": {
+        "displayAddress": "565 Elmwood Drive,Moncton,New Brunswick,E1A 2X4",
+        "extId": "a2t5o00000001G1AAI",
+        "regionExternalId": "a2z5o0000000153AAA",
+        "location": {
+            "lng": -64.7705,
+            "lat": 46.1226
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Elmwood Drive - Pfizer/Moderna": {
+        "displayAddress": "77 Filles de Jesus Avenue,Moncton,New Brunswick,E1A 9G6",
+        "extId": "a2t5o00000001FvAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.7682,
+            "lat": 46.1227
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Lawtons Mapleton - Pfizer/Moderna": {
+        "displayAddress": "40 Mapleton Road,Moncton,New Brunswick,E1C 7W8",
+        "extId": "a2t5o00000001FiAAI",
+        "regionExternalId": "a2z5o0000000153AAA",
+        "location": {
+            "lng": -64.823,
+            "lat": 46.1075
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Moncton Mall - Pfizer/Moderna": {
+        "displayAddress": "1380 Mountain Road,Moncton,New Brunswick,E1C 2T8",
+        "extId": "a2t5o00000001FkAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.8325,
+            "lat": 46.1098
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Vaughan Harvey - Pfizer/Moderna": {
+        "displayAddress": "55 Vaughan Harvey Boulevard,Moncton,New Brunswick,E1C 0N3",
+        "extId": "a2t5o00000001FtAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.7879,
+            "lat": 46.0845
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Riverview - Pfizer/Moderna": {
+        "displayAddress": "1160 Findlay Blvd,Riverview,New Brunswick,E1B 0J6",
+        "extId": "a2t5o00000001FrAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.795,
+            "lat": 46.0493
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Shediac - Pfizer/Moderna": {
+        "displayAddress": "183 Main Street,Shediac,New Brunswick,E4P 2A5",
+        "extId": "a2t5o00000001FsAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.5624,
+            "lat": 46.2168
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Safeway Court Street": {
+        "displayAddress": "70 North Court Street,Thunder Bay,Ontario,P7A 4T8",
+        "extId": "a2t5o00000001GrAAI",
+        "regionExternalId": "a2z5o000000015BAAQ",
+        "location": {
+            "lng": -89.2196,
+            "lat": 48.4387
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "Safeway West Lethbridge": {
+        "displayAddress": "1, 550 University Drive W.,Lethbridge,Alberta,T1J 4T3",
+        "extId": "a2t5o00000001FWAAY",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -112.892,
+            "lat": 49.6923
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Lawtons Catherwood - Pfizer/Moderna": {
+        "displayAddress": "107 Catherwood Street,Saint John,New Brunswick,E2M 5J7",
+        "extId": "a2t5o00000001G0AAI",
+        "regionExternalId": "a2z5o0000000153AAA",
+        "location": {
+            "lng": -66.0969,
+            "lat": 45.2547
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Lawtons Catherwood - AstraZeneca": {
+        "displayAddress": "107 Catherwood Street,Saint John,New Brunswick,E2M 5J7",
+        "extId": "a2t5o00000001XTAAY",
+        "regionExternalId": "a2z5o0000000153AAA",
+        "location": {
+            "lng": -66.0969,
+            "lat": 45.2547
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Saint John West - Pfizer/Moderna": {
+        "displayAddress": "1 Plaza Avenue,Saint John,New Brunswick,E2M 0C2",
+        "extId": "a2t5o00000001FuAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.102,
+            "lat": 45.2492
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys East Point - Pfizer/Moderna": {
+        "displayAddress": "40 East Point Way,Saint John,New Brunswick,E2J 0H4",
+        "extId": "a2t5o00000001FoAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.0303,
+            "lat": 45.3036
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Rothesay - AstraZeneca": {
+        "displayAddress": "140 Hampton Road,Rothesay,New Brunswick,E2E 2R1",
+        "extId": "a2t5o00000001XhAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -65.9745,
+            "lat": 45.4013
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Miramichi Road - AstraZeneca": {
+        "displayAddress": "375 Miramichi Road,Oromocto,New Brunswick,E2V 4T4",
+        "extId": "a2t5o00000001XQAAY",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.4865,
+            "lat": 45.8331
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Lawtons Regent Mall - AstraZeneca": {
+        "displayAddress": "1381 Regent Street,Fredericton,New Brunswick,E3C 1A2",
+        "extId": "a2t5o00000001XVAAY",
+        "regionExternalId": "a2z5o000000016AAAQ",
+        "location": {
+            "lng": -66.6641,
+            "lat": 45.9345
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Uptown - Pfizer/Moderna": {
+        "displayAddress": "1180 Prospect St,Fredericton,New Brunswick,E3B 5C7",
+        "extId": "a2t5o00000001FmAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.6622,
+            "lat": 45.9389
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Regent - Pfizer/Moderna": {
+        "displayAddress": "407 Regent Street,Fredericton,New Brunswick,E3B 3X6",
+        "extId": "a2t5o00000001FwAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.6464,
+            "lat": 45.9551
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Brookside Mall - Pfizer/Moderna": {
+        "displayAddress": "463 Brookside Drive,Fredericton,New Brunswick,E3A 8V4",
+        "extId": "a2t5o00000001FlAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -66.6514,
+            "lat": 45.993
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Safeway South View": {
+        "displayAddress": "8100 - 100 Street,Grande Prairie,Alberta,T8V 6H7",
+        "extId": "a2t5o00000001F9AAI",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -118.796,
+            "lat": 55.1543
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Lawtons Brookside Mall - Pfizer/Moderna": {
+        "displayAddress": "435 Brookside Drive, Unit 5,Fredericton,New Brunswick,E3A 8V4",
+        "extId": "a2t5o00000001FfAAI",
+        "regionExternalId": "a2z5o0000000153AAA",
+        "location": {
+            "lng": -66.652,
+            "lat": 45.9924
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Safeway Corral Centre": {
+        "displayAddress": "921 - 18 Street North,Brandon,Manitoba,R7A 7S1",
+        "extId": "a2t5o00000001NeAAI",
+        "regionExternalId": "a2z5o000000016hAAA",
+        "location": {
+            "lng": -99.9605,
+            "lat": 49.8668
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Central"
+    },
+    "Sobeys Brandon South": {
+        "displayAddress": "1570 18th Street,Brandon,Manitoba,R7A 5C5",
+        "extId": "a2t5o00000001N0AAI",
+        "regionExternalId": "a2z5o000000016fAAA",
+        "location": {
+            "lng": -99.9646,
+            "lat": 49.8235
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Central"
+    },
+    "Sobeys Caraquet - Pfizer/Moderna": {
+        "displayAddress": "10 Boulevard St. Pierre East,Caraquet,New Brunswick,E1W 1B6",
+        "extId": "a2t5o00000001G4AAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -64.9366,
+            "lat": 47.7941
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Sobeys Miramichi - Pfizer/Moderna": {
+        "displayAddress": "2485 King George Highway,Miramichi,New Brunswick,E1V 6W6",
+        "extId": "a2t5o00000001FqAAI",
+        "regionExternalId": "a2z5o0000000152AAA",
+        "location": {
+            "lng": -65.4896,
+            "lat": 47.0328
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Safeway Terrace": {
+        "displayAddress": "4655 Lakelse Avenue,Terrace,British Columbia,V8G 1R3",
+        "extId": "a2t5o00000001MVAAY",
+        "regionExternalId": "a2z5o000000016aAAA",
+        "location": {
+            "lng": -128.592,
+            "lat": 54.5166
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Pacific"
+    },
+    "Safeway Brooks": {
+        "displayAddress": "550 Cassils Road West,Brooks,Alberta,T1R 0W3",
+        "extId": "a2t5o00000001FSAAY",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -111.903,
+            "lat": 50.5727
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "Sobeys Stratford": {
+        "displayAddress": "9 Kinlock Road ,Stratford,Prince Edward Island,C1B 1L8",
+        "extId": "a2t5o00000001GoAAI",
+        "regionExternalId": "a2z5o000000016yAAA",
+        "location": {
+            "lng": -63.0884,
+            "lat": 46.2212
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Atlantic"
+    },
+    "Safeway Manning Crossing": {
+        "displayAddress": "500 Manning Crossing NW,Edmonton,Alberta,T5A 5A1",
+        "extId": "a2t5o00000001F4AAI",
+        "regionExternalId": "a2z5o0000000159AAA",
+        "location": {
+            "lng": -113.423,
+            "lat": 53.6011
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Mountain"
+    },
+    "FreshCo Woodbridge": {
+        "displayAddress": "3737 Major MacKenzie Dr,Vaughan,Ontario,L4H 0A2",
+        "extId": "a2t5o00000001DyAAI",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -79.5591,
+            "lat": 43.8447
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    }
+}
