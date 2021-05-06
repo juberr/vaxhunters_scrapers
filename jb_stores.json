@@ -1,0 +1,57 @@
+{
+    "FreshCo Leslie & Major MacKenzie": {
+        "displayAddress": "1430 Major MacKenzie Drive East, Unit A,Richmond Hill,Ontario,L4S 1P5",
+        "extId": "a2t5o00000001GiAAI",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -79.3953,
+            "lat": 43.8808
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "FreshCo Markham": {
+        "displayAddress": "9580 McCowan Road,Markham,Ontario,L3P 8M1",
+        "extId": "a2t5o00000001GXAAY",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -79.2932,
+            "lat": 43.8927
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "FreshCo 50-Cottrelle": {
+        "displayAddress": "3998 Cottrelle Boulevard,Brampton,Ontario,L6P 2R1",
+        "extId": "a2t5o00000001GDAAY",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -79.6597,
+            "lat": 43.7855
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "Sobeys Northfield": {
+        "displayAddress": "640 Parkside Dr,Waterloo,Ontario,N2L 0C7",
+        "extId": "a2t5o00000001E1AAI",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -80.5496,
+            "lat": 43.4988
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    },
+    "Sobeys Waterloo": {
+        "displayAddress": "450 Columbia Street W ,Waterloo,Ontario,N2T 2W1",
+        "extId": "a2t5o00000001DzAAI",
+        "regionExternalId": "a2z5o000000015AAAQ",
+        "location": {
+            "lng": -80.5683,
+            "lat": 43.467
+        },
+        "type": "OnlineBooking",
+        "timezone": "Canada/Eastern"
+    }
+}

@@ -72,4 +72,7 @@ def get_locations_postalcode(postalcode):
 
   return stores
 
-print(get_locations_postalcode('L1N4J6'))
+test_resp = get_locations_postalcode('L4C7S1')
+
+with open('jb_stores.json', 'w') as f:
+  json.dump(test_resp, f, indent=4)
