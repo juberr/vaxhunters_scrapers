@@ -70,6 +70,6 @@ def get_locations_postalcode(postalcode):
       }
       stores[ location["name"] ] = object
 
-  return locations
+  return stores
 
-print(get_locations('L1N4J6'))
+print(get_locations_postalcode('L1N4J6'))
